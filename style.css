@@ -1,0 +1,57 @@
+body{
+
+	background-image:url(hotel.jpg);
+	text-align: center;
+	margin-top: 5px;
+	margin:auto;
+}
+
+nav ul{
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	background-color: grey;
+	text-align: center;
+}
+
+nav li{
+	display: inline-block;
+	padding: 0px;
+	margin: 0px;
+	width: 100px;
+	height: 40px;
+	text-align: center;
+	border-right: 1px solid #CCC;
+	line-height: 40px;
+}
+
+nav{
+	text-align-last: center;
+}
+
+nav li a{
+	display: block;
+	text-decoration: none;
+	color: white;
+}
+
+nav li :hover{
+	background-color: blue;
+}
+
+label ,input
+{
+	margin-top: 17px;
+	}
+
+p{
+	font-weight: bold;
+}
+
+.Inscription{
+	
+	background-color:lightblue;
+	margin-top: 25px;
+	margin-left: 70px;
+	margin-right: 70px;
+}
